@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Hexo-theme-even]]></title>
+      <url>/hexo-theme-even/2017/04/10/hexo-theme-even/</url>
+      <content type="html"><![CDATA[<p><img src="http://ww2.sinaimg.cn/large/006tNc79gw1faoa9tm7gnj312v0or421.jpg" alt="even"></p>
+<h2 id="特性-Feature"><a href="#特性-Feature" class="headerlink" title="特性 Feature"></a>特性 Feature</h2><ul>
+<li>自定义样式</li>
+<li>支持站内搜索</li>
+<li>支持 Fancybox </li>
+<li>版权信息，自定义许可协议</li>
+<li>文章打赏，添加二维码</li>
+</ul>
+<a id="more"></a>
+<h2 id="安装使用-Installation"><a href="#安装使用-Installation" class="headerlink" title="安装使用 Installation"></a>安装使用 Installation</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-renderer-scss --save</div><div class="line">$ git clone https://github.com/ahonn/hexo-theme-even themes/even</div></pre></td></tr></table></figure>
+<p>修改配置文件中的 <code>theme</code> 字段为 <code>even</code>: </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"># Extensions</div><div class="line">## Plugins: http://hexo.io/plugins/</div><div class="line">## Themes: http://hexo.io/themes/</div><div class="line">theme: even</div></pre></td></tr></table></figure>
+<h2 id="文档-Document"><a href="#文档-Document" class="headerlink" title="文档 Document"></a>文档 Document</h2><p><a href="https://github.com/ahonn/hexo-theme-even/wiki" target="_blank" rel="external">wiki</a></p>
+<h2 id="联系我-Contact"><a href="#联系我-Contact" class="headerlink" title="联系我 Contact"></a>联系我 Contact</h2><p>Email: <a href="mailto:ahonn95@outlook.com" target="_blank" rel="external">ahonn95@outlook.com</a></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Even </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/hexo-theme-even/2017/04/10/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<a id="more"></a>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
+</search>
